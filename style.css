@@ -1,0 +1,39 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+}
+.entradas{
+  flex-direction: column;
+  align-items: center;
+}
+input{
+  max-width: 2em;
+  font-size: 3em;
+}
+
+h1{
+  font-size: 5em;
+  font-family: fantasy;
+  color: #76a38e;
+}
+
+#botao{
+  font-size: 3em;
+  text-transform:uppercase;
+  background-color:#76a38e;
+  color: white;
+  elevation: 20px;
+}
+#numSort {
+  list-style: none;
+  font-size: 3em;
+  align-items: flex-end;
+}
+
+p{
+
+  font-size: 2em;
+  color: #76a38e;
+}

@@ -30,6 +30,12 @@ h1{
   list-style: none;
   font-size: 3em;
   align-items: flex-end;
+  display: flex;
+  flex-direction: row;
+}
+.result{
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 p{

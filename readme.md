@@ -68,7 +68,7 @@ Tela 1: Tela de abertura
 Tela 2: 6 números digitados e 1 acerto
 ![](/imagens/tela2.png)
 
-####Referências
+###Referências
 * HTML: [Wikipedia](https://pt.wikipedia.org/wiki/HTML)
 * CSS: [wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 * JavaScript: [wikipedia](https://pt.wikipedia.org/wiki/JavaScript)

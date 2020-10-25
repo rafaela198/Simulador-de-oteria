@@ -61,8 +61,12 @@ function addList(num, pos) {
 | Exemplo 4  |  R$ 7            |      27     |
 
 ##Imagens da tela
-![Tela 1](/imagens/tela1.png)
-![Tela 2](/imagens/tela2.png)
+
+Tela 1: Tela de abertura
+![](/imagens/tela1.png)
+
+Tela 2: 6 números digitados e 1 acerto
+![](/imagens/tela2.png)
 
 ####Referências
 * HTML: [Wikipedia](https://pt.wikipedia.org/wiki/HTML)

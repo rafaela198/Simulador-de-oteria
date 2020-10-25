@@ -50,7 +50,7 @@ function addList(num, pos) {
 ```
 ## Como rodar o código
 > Simplesmente baixe o código e abra o arquivo **_index.html_** no seu navegador.
-```
+``
 ## Exemplo de tabela
 |Exemplo     | Valor do exemplo | quantidade  |
 |            |                  |             |

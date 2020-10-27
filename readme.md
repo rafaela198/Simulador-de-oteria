@@ -71,3 +71,5 @@ Tela 2: 6 números digitados e 1 acerto
 * HTML: [Wikipedia](https://pt.wikipedia.org/wiki/HTML)
 * CSS: [wikipedia](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 * JavaScript: [wikipedia](https://pt.wikipedia.org/wiki/JavaScript)
+
+By @Rafaela_Souza

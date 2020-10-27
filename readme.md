@@ -53,7 +53,6 @@ function addList(num, pos) {
 ``
 ## Exemplo de tabela
 |Exemplo     | Valor do exemplo | quantidade  |
-|            |                  |             |
 | ---------- |------------------|----------   |
 | Exemplo 1  |  R$ 10           |      5      |
 | Exemplo 2  |  R$ 8            |      4      |

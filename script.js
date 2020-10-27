@@ -15,12 +15,15 @@ function sortear() {
 }
 
 function addList(num, pos) {
-  if (num.length == 2 ) {
+  if (num.length <=3) {
 
 
   if(numEsc.includes(num)){
+
     alert("Número escolhido anteriormente! Digite outro número.");
+
   }else if (parseInt(num) > 60) {
+
     alert("O número digitado não pode ser maior que 60.");
   }
   else {
